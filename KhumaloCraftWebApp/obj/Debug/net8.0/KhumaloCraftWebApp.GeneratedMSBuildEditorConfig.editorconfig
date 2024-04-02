@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KhumaloCraftWebApp
+build_property.RootNamespace = KhumaloCraftWebApp
+build_property.ProjectDir = C:\Users\shaik\source\repos\KhumaloCraftWebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\shaik\source\repos\KhumaloCraftWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/wwwroot/KhumaloCraftWebApp/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxLaHVtYWxvQ3JhZnRXZWJBcHBcUGFnZXNcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/wwwroot/KhumaloCraftWebApp/Pages/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxLaHVtYWxvQ3JhZnRXZWJBcHBcUGFnZXNcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/wwwroot/KhumaloCraftWebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxLaHVtYWxvQ3JhZnRXZWJBcHBcUGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/wwwroot/KhumaloCraftWebApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxLaHVtYWxvQ3JhZnRXZWJBcHBcUGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/wwwroot/KhumaloCraftWebApp/Pages/MyWork.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxLaHVtYWxvQ3JhZnRXZWJBcHBcUGFnZXNcTXlXb3JrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/wwwroot/KhumaloCraftWebApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxLaHVtYWxvQ3JhZnRXZWJBcHBcUGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/wwwroot/KhumaloCraftWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxLaHVtYWxvQ3JhZnRXZWJBcHBcUGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/wwwroot/KhumaloCraftWebApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxLaHVtYWxvQ3JhZnRXZWJBcHBcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/wwwroot/KhumaloCraftWebApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxLaHVtYWxvQ3JhZnRXZWJBcHBcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/Pages/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/Pages/MyWork.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlXb3JrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/wwwroot/KhumaloCraftWebApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxLaHVtYWxvQ3JhZnRXZWJBcHBcUGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xd6icu02dz
+
+[C:/Users/shaik/source/repos/KhumaloCraftWebApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gnc5e62isf

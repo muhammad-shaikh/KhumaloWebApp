@@ -1,0 +1,17 @@
+﻿@page
+@model MyWorkModel
+@{
+    ViewData["Title"] = "My Work";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@foreach (var craftwork in Model.Craftworks)
+{
+    <div class="craftwork">
+        <h2>@craftwork.Name</h2>
+        <p>Description: @craftwork.Description</p>
+        <p>Price: $@craftwork.Price</p>
+        <img src="@craftwork.ImageUrl" alt="@craftwork.Name">
+    </div>
+}
